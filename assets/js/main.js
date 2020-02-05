@@ -22,7 +22,7 @@ function flipCard() {
   }
 
   secondCard = this;
-  checkForMatch();
+  checkMatch();
 }
 
 function disableCards() {
@@ -32,7 +32,7 @@ function disableCards() {
   resetCards();
 }
 
-function checkForMatch() {
+function checkMatch() {
   let pair = firstCard.dataset.image === secondCard.dataset.image;
   
   if (pair) {

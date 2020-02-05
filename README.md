@@ -45,5 +45,5 @@ was a little bit of a hassle to connect to a new one, but I managed and I am ple
 The photos used in this site were obtained from pexels.com
 
 # Acknowledgements
-I received for this project from Code Institute's Milestone Project 2 ideas. I was struggling for a long time on
+I received the idea for this project from Code Institute's Milestone Project 2 ideas. I was struggling for a long time on
 where to go with my project, but the suggestions from the course really helped me settle at a memory game.
